@@ -34,8 +34,6 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 ![About](githubimgs/about.png)
 * Dashboard:
 ![Dashboard](githubimgs/dashboard.png)
-* Developer:
-![Developer](githubimgs/developer.png)
 * Predictor:
 ![Predictor](githubimgs/predictor.png)
 * Result:
