@@ -54,11 +54,9 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 * Different types of models were tried like catboost, random forest, logistic regression, xgboost, support vector machines, knn, naive bayes.
 * Out of these catboost, random forest and support vector machines were top 3
 * The conclusion were made using classification metrics. roc curve and auc score
-# Model Deployment
-* The model is deployed using Flask at Heroku server at the [link](https://rainy-brain.herokuapp.com/)
 
-# If you like this project please do give a star. I am also giving my LinkedIn profile. If you want we can connect there too
-[https://www.linkedin.com/in/vasanth-p-90826218b/](https://www.linkedin.com/in/vasanth-p-90826218b/)
+
+
 
 
 
